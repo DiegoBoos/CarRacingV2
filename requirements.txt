@@ -1,0 +1,8 @@
+numpy
+gym
+matplotlib
+tensorflow-probability
+box2d
+tensorflow==2.14.0
+tensorflow-metal==1.1.0
+opencv-python==4.8.0.74 
